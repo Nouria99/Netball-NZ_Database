@@ -4,9 +4,7 @@ This project is an interactive R Shiny web application designed to explore, anal
 
 It brings together player statistics, league results, team comparisons, and advanced metrics (including Anti-Fragility – AF) into a single, user-friendly dashboard. The aim is to provide coaches, analysts, and fans with actionable insights through an intuitive interface.
 
-🚀 Live Demo
-
-👉 View the Shiny App
+👉 View the Shiny App: https://nouria99.shinyapps.io/netball-nz-database-version4/
 
 ✨ Features
 📊 Player Analysis
