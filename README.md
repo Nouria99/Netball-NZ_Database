@@ -6,11 +6,9 @@ This project is an **interactive data analytics dashboard** built with **R and S
 
 ---
 
-## 📸 Screenshots
-
 ### 🏠 Home Page – Overview
 
-![Home Page](images/home_page.png)
+https://github.com/Nouria99/Netball-NZ_Database/blob/main/home%20page.png
 
 ### 📊 League Explorer – Season Insights
 
