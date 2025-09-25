@@ -8,11 +8,11 @@ This project is an **interactive data analytics dashboard** built with **R and S
 
 ### 🏠 Home Page – Overview
 
-https://github.com/Nouria99/Netball-NZ_Database/blob/main/home%20page.png
+![Home Page](https://github.com/Nouria99/Netball-NZ_Database/blob/main/home%20page.png)
 
 ### 📊 League Explorer – Season Insights
 
-![League Explorer](images/league_explorer.png)
+![League Explorer](https://github.com/Nouria99/Netball-NZ_Database/blob/main/leagues%20Page.png)
 
 ### 👤 Player Profile – Detailed Stats
 
