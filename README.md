@@ -1,71 +1,78 @@
-# Netball NZ Database – Interactive Shiny Dashboard
+# 🏐 Netball NZ Database – Interactive Shiny App
 
-This project is an interactive R Shiny web application designed to explore, analyse, and visualise Netball New Zealand player and league performance data across multiple seasons.
+This project is an **interactive data analytics dashboard** built with **R and Shiny** to explore professional netball competitions, players, and teams across multiple seasons. It provides stakeholders (analysts, coaches, fans, and researchers) with a dynamic interface to analyse match results, player statistics, and team performance trends.
 
-It brings together player statistics, league results, team comparisons, and advanced metrics (including Anti-Fragility – AF) into a single, user-friendly dashboard. The aim is to provide coaches, analysts, and fans with actionable insights through an intuitive interface.
+🔗 **Live App:** [Netball NZ Database (Shiny)](https://nouria99.shinyapps.io/netball-nz-database-version4/)
 
-👉 View the Shiny App: https://nouria99.shinyapps.io/netball-nz-database-version4/
+---
 
-✨ Features
-📊 Player Analysis
+## 📸 Screenshots
 
-Interactive tables of individual player statistics
+### 🏠 Home Page – Overview
 
-Downloadable CSVs for offline analysis
+![Home Page](images/home_page.png)
 
-Filters for season, team, and player selection
+### 📊 League Explorer – Season Insights
 
-Abbreviations & glossary for quick reference
+![League Explorer](images/league_explorer.png)
 
-🏆 League Insights
+### 👤 Player Profile – Detailed Stats
 
-Season-by-season breakdown of league performance
+![Player Profile](images/player_profile.png)
 
-Match comparison view with icons (🏐 goals, 🛡️ gains, ❌ misses)
+---
 
-Team rankings, wins/losses, and other KPIs
+## 📌 Features
 
-Consistent design with custom CSS theme
+* **League Explorer:** Browse domestic and international netball competitions across seasons.
+* **Player Profiles:** Drill down into individual player statistics with performance comparisons.
+* **Team Insights:** Analyse team results, wins/losses, and season trends.
+* **Interactive Visualisations:** Built with `reactable`, `ggplot2`, and custom CSS for a polished user experience.
+* **Data Caching:** Efficient caching system for fast loading across large datasets.
+* **Download CSV:** Export player and team data directly from the app for offline analysis.
 
-🧮 Advanced Metrics (AF – Anti-Fragility)
+---
 
-Integration of Anti-Fragility scores (from Excel datasets)
+## 🛠️ Tech Stack
 
-Each player and team assigned a unique ID for AF tracking across seasons
+* **R / Shiny** – Core framework for building the web app.
+* **Shiny Dashboard, ShinyWidgets, Reactable** – UI components and interactive tables.
+* **dplyr / tidyr / stringr** – Data cleaning and transformation.
+* **Custom CSS** – Theming and UI improvements.
+* **JSONlite / Curl** – Fetching and integrating netball data.
 
-Helps evaluate resilience and adaptability of players
+---
 
-🎨 Design & Usability
+## 👩‍💻 My Role
 
-Custom blue/white/black theme with background image
+* Building the **interactive Shiny interface** with multiple tabs.
+* Implementing **data processing and caching pipelines**.
+* Adding **Download CSV functionality** for player and team data.
+* Styling the dashboard with **custom CSS and icons**.
+* Deploying the app on **shinyapps.io** for public access.
 
-3D thick black table borders for readability
+---
 
-Dropdown filters styled with bold headers
+## 🚀 How to Explore
 
-Consistent layout across all pages (Player, League, All Players)
+1. Visit the live Shiny app here → [Netball NZ Database](https://nouria99.shinyapps.io/netball-nz-database-version4/).
+2. Use the sidebar to select a league, season, team, or player.
+3. Interact with tables and charts to reveal stats and trends.
+4. **Download CSV** – Click the download icons to export datasets for offline use.
 
-📸 Screenshots
+---
 
-📍 Player Page
+## 🎯 Key Learnings
+
+* Advanced **R + Shiny development** for real-world data applications.
+* Designing efficient **data caching** for web apps.
+* Implementing **export/download features** for data usability.
+* Communicating **sports analytics insights** through interactive visualisation.
+
+---
+
+---
+
+👉 This project demonstrates my ability to combine **data analytics, sports performance insights, and interactive dashboard development** in a professional setting.
 
 
-📍 League Page
-
-
-📍 All Players Page
-
-
-🛠️ Technologies
-
-R Shiny – Interactive web app framework
-
-ShinyWidgets & ShinyDashboard – Enhanced UI components
-
-Reactable – Interactive, downloadable tables
-
-Dplyr, Tidyr, Stringr – Data wrangling
-
-Custom CSS – Styling for background, layout, and tables
-
-ShinyApps.io – Deployment
