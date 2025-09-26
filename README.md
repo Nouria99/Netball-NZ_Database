@@ -5,14 +5,14 @@ This project is an **interactive data analytics dashboard** built with **R and S
 🔗 **Live App:** [Netball NZ Database (Shiny)](https://nouria99.shinyapps.io/netball-nz-database-version4/)
 
 ### 🏠 Home Page – Overview  
-<img src="https://github.com/Nouria99/Netball-NZ_Database/blob/main/home%20page.png" width="500"/>
+<img src="https://github.com/Nouria99/Netball-NZ_Database/blob/main/home%20page.png" width="700"/>
 
 ### 📊 League Explorer – Season Insights  
-<img src="https://github.com/Nouria99/Netball-NZ_Database/blob/main/leagues%20Page.png" width="500"/>
+<img src="https://github.com/Nouria99/Netball-NZ_Database/blob/main/leagues%20Page.png" width="700"/>
 
 ### 👤 Player Profile – Detailed Stats
 
-<img src="https://github.com/Nouria99/Netball-NZ_Database/blob/main/Players%20Page.png" width="500"/>
+<img src="https://github.com/Nouria99/Netball-NZ_Database/blob/main/Players%20Page.png" width="700"/>
 
 ## 📌 Features
 
@@ -44,7 +44,7 @@ This project is an **interactive data analytics dashboard** built with **R and S
 1. Visit the live Shiny app here → [Netball NZ Database](https://nouria99.shinyapps.io/netball-nz-database-version4/).
 2. Use the sidebar to select a league, season, team, or player.
 3. Interact with tables and charts to reveal stats and trends.
-4. **Download CSV** – Click the download icons to export datasets for offline use.
+4. **Download CSV** Click the download icons to export datasets for offline use.
 
 ## 🎯 Key Learnings
 
