@@ -4,17 +4,15 @@ This project is an **interactive data analytics dashboard** built with **R and S
 
 🔗 **Live App:** [Netball NZ Database (Shiny)](https://nouria99.shinyapps.io/netball-nz-database-version4/)
 
-### 🏠 Home Page – Overview
-
 ### 🏠 Home Page – Overview  
 <img src="https://github.com/Nouria99/Netball-NZ_Database/blob/main/home%20page.png" width="500"/>
 
 ### 📊 League Explorer – Season Insights  
-<img src="https://github.com/Nouria99/Netball-NZ_Database/blob/main/league_explorer.png" width="500"/>
+<img src="https://github.com/Nouria99/Netball-NZ_Database/blob/main/leagues%20Page.png" width="500"/>
 
 ### 👤 Player Profile – Detailed Stats
 
-![Player Profile](https://github.com/Nouria99/Netball-NZ_Database/blob/main/Players%20Page.png)
+<img src="https://github.com/Nouria99/Netball-NZ_Database/blob/main/Players%20Page.png" width="500"/>
 
 ## 📌 Features
 
