@@ -25,11 +25,11 @@ This project is an **interactive data analytics dashboard** built with **R and S
 
 ## 🛠️ Tech Stack
 
-* **R / Shiny** – Core framework for building the web app.
-* **Shiny Dashboard, ShinyWidgets, Reactable** – UI components and interactive tables.
-* **dplyr / tidyr / stringr** – Data cleaning and transformation.
-* **Custom CSS** – Theming and UI improvements.
-* **JSONlite / Curl** – Fetching and integrating netball data.
+* **R / Shiny** : Core framework for building the web app.
+* **Shiny Dashboard, ShinyWidgets, Reactable** : UI components and interactive tables.
+* **dplyr / tidyr / stringr** : Data cleaning and transformation.
+* **Custom CSS** : Theming and UI improvements.
+* **JSONlite / Curl** : Fetching and integrating netball data.
 
 ## 👩‍💻 My Role
 
