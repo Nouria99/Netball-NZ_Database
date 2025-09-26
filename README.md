@@ -4,8 +4,6 @@ This project is an **interactive data analytics dashboard** built with **R and S
 
 🔗 **Live App:** [Netball NZ Database (Shiny)](https://nouria99.shinyapps.io/netball-nz-database-version4/)
 
----
-
 ### 🏠 Home Page – Overview
 
 ![Home Page](https://github.com/Nouria99/Netball-NZ_Database/blob/main/home%20page.png)
@@ -16,9 +14,7 @@ This project is an **interactive data analytics dashboard** built with **R and S
 
 ### 👤 Player Profile – Detailed Stats
 
-![Player Profile](images/player_profile.png)
-
----
+![Player Profile](https://github.com/Nouria99/Netball-NZ_Database/blob/main/Players%20Page.png)
 
 ## 📌 Features
 
@@ -29,8 +25,6 @@ This project is an **interactive data analytics dashboard** built with **R and S
 * **Data Caching:** Efficient caching system for fast loading across large datasets.
 * **Download CSV:** Export player and team data directly from the app for offline analysis.
 
----
-
 ## 🛠️ Tech Stack
 
 * **R / Shiny** – Core framework for building the web app.
@@ -38,8 +32,6 @@ This project is an **interactive data analytics dashboard** built with **R and S
 * **dplyr / tidyr / stringr** – Data cleaning and transformation.
 * **Custom CSS** – Theming and UI improvements.
 * **JSONlite / Curl** – Fetching and integrating netball data.
-
----
 
 ## 👩‍💻 My Role
 
@@ -49,8 +41,6 @@ This project is an **interactive data analytics dashboard** built with **R and S
 * Styling the dashboard with **custom CSS and icons**.
 * Deploying the app on **shinyapps.io** for public access.
 
----
-
 ## 🚀 How to Explore
 
 1. Visit the live Shiny app here → [Netball NZ Database](https://nouria99.shinyapps.io/netball-nz-database-version4/).
@@ -58,18 +48,12 @@ This project is an **interactive data analytics dashboard** built with **R and S
 3. Interact with tables and charts to reveal stats and trends.
 4. **Download CSV** – Click the download icons to export datasets for offline use.
 
----
-
 ## 🎯 Key Learnings
 
 * Advanced **R + Shiny development** for real-world data applications.
 * Designing efficient **data caching** for web apps.
 * Implementing **export/download features** for data usability.
 * Communicating **sports analytics insights** through interactive visualisation.
-
----
-
----
 
 👉 This project demonstrates my ability to combine **data analytics, sports performance insights, and interactive dashboard development** in a professional setting.
 
